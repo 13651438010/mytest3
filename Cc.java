@@ -4,4 +4,5 @@ public class Cc{
 	private Integer age;
 	private String address;
 	private String code;
+	private String email;
 }
